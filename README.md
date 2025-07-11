@@ -3,9 +3,11 @@
 A real-time collaborative code editor and AI-powered development environment built with React, Node.js, and WebContainers. Features a modern, component-based architecture with enhanced output display and comprehensive language support.
 
 images-
-![image](https://github.com/user-attachments/assets/b22c7cf0-8586-44cc-8a2a-63488449a261)
-
 ![image](https://github.com/user-attachments/assets/d3c60f73-00c8-45a0-9a9b-bb6211e17bc9)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/65a8bb9b-4957-4eea-b523-70533d748c39" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fbf39bc7-40d4-4d04-9b31-e85681db434d" />
+
+
 ## 🚀 Features
 
 ### Core Features
