@@ -209,8 +209,8 @@ REDIS_URL=redis://localhost:6379
 
 #### Frontend (.env)
 ```env
-VITE_API_URL=http://localhost:5000
-VITE_SOCKET_URL=http://localhost:5000
+VITE_API_URL=https://chat2code-backend-production.up.railway.app
+VITE_SOCKET_URL=https://chat2code-backend-production.up.railway.app
 ```
 
 ## 🚀 Deployment
